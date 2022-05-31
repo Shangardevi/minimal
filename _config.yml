@@ -1,6 +1,11 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Shangar devi Natarajan
+logo: /assets/img/devi_photo.png
+description:
+<a href=https://www.linkedin.com/in/shangar-devi-natarajan-64217015> LinkedIn </a>
+<a href=https://github.com/Shangardevi> Github </a>
+<br>
+Passionate Director Solution architect and Engineering Manager with a strong technology background.
+Experience in the IOT, Auto, Telecom and Finance domain.
+Developing systems used by millions of users worldwide
+</br>
 theme: jekyll-theme-minimal
